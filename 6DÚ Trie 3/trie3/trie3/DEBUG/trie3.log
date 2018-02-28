@@ -1,0 +1,5 @@
+﻿  trie.cpp
+d:\programming\c++\fel-pjc\10dú trie 3\trie3\trie3\trie.cpp(274): warning C4018: '<': signed/unsigned mismatch
+d:\programming\c++\fel-pjc\10dú trie 3\trie3\trie3\trie.cpp(333): warning C4018: '<': signed/unsigned mismatch
+d:\programming\c++\fel-pjc\10dú trie 3\trie3\trie3\trie.cpp(520): warning C4715: 'trie::begin': not all control paths return a value
+  trie3.vcxproj -> D:\Programming\C++\FEL-PJC\10DÚ Trie 3\trie3\Debug\trie3.exe

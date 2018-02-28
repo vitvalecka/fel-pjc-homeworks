@@ -1,0 +1,11 @@
+﻿  test_flatset.cpp
+d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\test_flatset.cpp(889): warning C4018: '<': signed/unsigned mismatch
+d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\test_flatset.cpp(915): warning C4018: '<': signed/unsigned mismatch
+d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\flatset.hpp(53): warning C4018: '<': signed/unsigned mismatch
+  d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\flatset.hpp(51): note: while compiling class template member function 'flat_set<int,std::less<int>>::flat_set(flat_set<int,std::less<int>> &&)'
+  d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\test_flatset.cpp(647): note: see reference to function template instantiation 'flat_set<int,std::less<int>>::flat_set(flat_set<int,std::less<int>> &&)' being compiled
+  d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\test_flatset.cpp(90): note: see reference to class template instantiation 'flat_set<int,std::less<int>>' being compiled
+d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\flatset.hpp(45): warning C4018: '<': signed/unsigned mismatch
+  d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\flatset.hpp(42): note: while compiling class template member function 'flat_set<int,std::less<int>>::flat_set(const flat_set<int,std::less<int>> &)'
+  d:\programming\c++\fel-pjc\12dú flatset\flatset\flatset\test_flatset.cpp(521): note: see reference to function template instantiation 'flat_set<int,std::less<int>>::flat_set(const flat_set<int,std::less<int>> &)' being compiled
+  flatset.vcxproj -> D:\Programming\C++\FEL-PJC\12DÚ FlatSet\flatset\Debug\flatset.exe

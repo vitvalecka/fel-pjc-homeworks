@@ -1,0 +1,4 @@
+﻿  postfix.cpp
+d:\programming\c++\fel-pjc\11dú parser 1\parser1\parser1\postfix.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\programming\c++\fel-pjc\11dú parser 1\parser1\parser1\postfix.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  parser1.vcxproj -> D:\Programming\C++\FEL-PJC\11DÚ Parser 1\parser1\Debug\parser1.exe
