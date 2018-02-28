@@ -1,0 +1,5 @@
+﻿  small1.cpp
+d:\programming\c++\fel-pjc\04dú matice\03dú matice\small1.cpp(19): warning C4018: '<': signed/unsigned mismatch
+d:\programming\c++\fel-pjc\04dú matice\03dú matice\small1.cpp(159): warning C4101: 'e': unreferenced local variable
+d:\programming\c++\fel-pjc\04dú matice\03dú matice\small1.cpp(204): warning C4018: '<': signed/unsigned mismatch
+  03DÚ Matice.vcxproj -> D:\Programming\C++\FEL-PJC\04DÚ Matice\Debug\03DÚ Matice.exe
